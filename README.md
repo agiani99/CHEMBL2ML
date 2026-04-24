@@ -4,7 +4,7 @@ Streamlit web app that fetches ChEMBL bioactivity data for a target (via UniProt
 
 ## What it does
 
-- Input: a **UniProt ID** (e.g. `P00533`).
+- Input: a **UniProt ID** (e.g. `Q9UNA0`).
 - Fetches:
   - HGNC gene symbol (via genenames.org)
   - ChEMBL target, assays, and activities (via ChEMBL API)
